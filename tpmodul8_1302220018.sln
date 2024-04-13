@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tpmodul8_1302220018", "tpmodul8_1302220018\tpmodul8_1302220018.csproj", "{4E9AD436-D1F8-442C-B2D8-266FF9FB4674}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tpmodul8_1302220018", "tpmodul8_1302220018\tpmodul8_1302220018.csproj", "{4E9AD436-D1F8-442C-B2D8-266FF9FB4674}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Config", "Config", "{827194AD-DD85-4580-A7D4-1C4EC95FAE0F}"
+	ProjectSection(SolutionItems) = preProject
+		tpmodul8_1302220018\covid_config.json = tpmodul8_1302220018\covid_config.json
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
